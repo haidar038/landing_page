@@ -4,3 +4,8 @@ My first landing page using HTML and CSS
 more information ▼
 e-mail  : haidar038@gmail.com
 ig      : @mhmmd.haidar_05
+
+source  :
+- w3schools.com
+- wikipedia
+- flaticon
